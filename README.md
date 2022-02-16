@@ -1,6 +1,6 @@
 ### Seja bem vindo, eu sou Igor Oliveira 👋
 
-- 🤓 Desenvolvedor android Jr
+- 🤓 Desenvolvedor front end Jr
 - 🌱 Estou estudando kotlin
 - 📫 Contate-me: igorfernandesoliveira@outlook.com
 - 😄 Apelido: Donna
