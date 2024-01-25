@@ -1,7 +1,7 @@
 ### Seja bem vindo, eu sou Igor Oliveira 👋
 
-- 🤓 Desenvolvedor front end Jr
-- 🌱 Estou estudando kotlin
+- 🤓 Analista de dados Jr
+- 🌱 Estou estudando Python | Power B.I | Excel
 - 📫 Contate-me: igorfernandesoliveira@outlook.com
 - 😄 Apelido: Donna
 
